@@ -1,3 +1,4 @@
+//nu e sigur ca merge
 #include <iostream>
 #include <math.h>
 void Impare(int &n){
